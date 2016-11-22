@@ -1,6 +1,6 @@
 {
   "name": "clash-of-clans-unit-levels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON data that informs about maximum unit levels per townhall. (spells, troops, heroes)",
   "main": "lib/index.js",
   "scripts": {
