@@ -1,0 +1,130 @@
+{ 
+	"troops": [
+		{
+			"name":"Barbarian", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Archer", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Goblin", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Giant", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,8]
+		},
+		{
+			"name":"Wall Breaker", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,6]
+		},
+		{
+			"name":"Balloon", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Wizard", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Healer", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Dragon", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,6]
+		},
+		{
+			"name":"P.E.K.K.A", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Minion", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Hog Rider", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,6]
+		},
+		{
+			"name":"Valkyrie", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Golem", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Witch", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,3]
+		},
+		{
+			"name":"Lava Hound", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Bowler", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,3]
+		},
+		{
+			"name":"Baby Dragon", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Miner", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]}
+	],
+	"heroes":[
+		{
+			"name":"Barbarian King", 
+			"levels" :[0,0,0,0,0,0,0,5,10,30,40]
+		},
+		{
+			"name":"Archer Queen", 
+			"levels" :[0,0,0,0,0,0,0,0,0,30,40]}
+	],
+	"spells":[
+		{
+			"name":"Lightning Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,7]
+		},
+		{
+			"name":"Healing Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,6]
+		},
+		{
+			"name":"Rage Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Jump Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,3]
+		},
+		{
+			"name":"Freeze Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,5]
+		},
+		{
+			"name":"Poison Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Earthquake Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Haste Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Clone Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		},
+		{
+			"name":"Skeleton Spell", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,4]
+		}
+	] 
+}
