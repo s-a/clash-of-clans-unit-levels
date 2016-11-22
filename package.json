@@ -9,7 +9,7 @@
     "prepublish": "gulp prepublish",
     "test": "node node_modules/mocha/bin/_mocha",
     "mocha-test": "iron-node node_modules/mocha/bin/_mocha",
-    "bump": "node node_modules/mocha/bin/_mocha && npm run docs && npm version patch && git push && git push --tags && npm publish"
+    "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
