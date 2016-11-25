@@ -80,11 +80,16 @@
 	"heroes":[
 		{
 			"name":"Barbarian King", 
-			"levels" :[0,0,0,0,0,0,0,5,10,30,40]
+			"levels" :[0,0,0,0,0,0,5,10,10,30,40]
 		},
 		{
 			"name":"Archer Queen", 
-			"levels" :[0,0,0,0,0,0,0,0,0,30,40]}
+			"levels" :[0,0,0,0,0,0,0,0,0,30,40]
+		},
+		{
+			"name":"Grand Warden", 
+			"levels" :[0,0,0,0,0,0,0,0,0,0,20]
+		}
 	],
 	"spells":[
 		{
